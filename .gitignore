@@ -1,0 +1,6 @@
+.vscode/
+__pycache__/
+model_checkpoints/
+command.txt
+record1.wav
+recording.wav
